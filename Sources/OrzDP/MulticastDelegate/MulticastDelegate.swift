@@ -4,7 +4,8 @@
 //
 //  Created by joker on 2020/11/9.
 //
-
+// 多播代理适用于通知多个代理对象某事件发生
+// 不适合给多个代理对象提供数据，提供数据这种场景可以考虑使用`响应链`模式
 
 /// 多播代理范型辅助类
 public class MulticastDelegate<ProtocolType> {
