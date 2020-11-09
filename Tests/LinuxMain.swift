@@ -1,8 +1,8 @@
 import XCTest
 
-import OrzDPTests
+import OrzSwiftDPTests
 
 var tests = [XCTestCaseEntry]()
-tests += OrzDPTests.allTests()
+tests += OrzSwiftDPTests.allTests()
 tests += MulticastDelegateTests.allTests()
 XCTMain(tests)

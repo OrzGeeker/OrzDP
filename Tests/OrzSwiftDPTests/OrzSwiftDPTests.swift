@@ -1,12 +1,12 @@
 import XCTest
-@testable import OrzDP
+@testable import OrzSwiftDP
 
-final class OrzDPTests: XCTestCase {
+final class OrzSwiftDPTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(OrzDP().text, "Hello, World!")
+        XCTAssertEqual(OrzSwiftDP().text, "Hello, World!")
     }
 
     static var allTests = [

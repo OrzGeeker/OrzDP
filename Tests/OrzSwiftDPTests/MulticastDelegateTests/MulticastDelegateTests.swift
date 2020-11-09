@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import OrzDP
+@testable import OrzSwiftDP
 
 final class MulticastDelegateTests: XCTestCase {
     

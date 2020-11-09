@@ -1,4 +1,4 @@
-# OrzDP
+# OrzSwiftDP
 
 A description of this package.
 
