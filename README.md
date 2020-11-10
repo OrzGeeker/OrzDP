@@ -34,4 +34,6 @@ UML是创建类图的标准语言，但开发中并不需要完全了解UML，�
 
 - [MVC模式](resources/MVC.png)
 
+- [Delegate模式](resources/Delegate.png)
+
 - 组播代理模式(MulticastDelegate)
