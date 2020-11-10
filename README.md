@@ -32,4 +32,6 @@ UML是创建类图的标准语言，但开发中并不需要完全了解UML，�
 
 ## Orz Swift 设计模式
 
+- [MVC模式](resources/MVC.png)
+
 - 组播代理模式(MulticastDelegate)
