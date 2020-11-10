@@ -28,7 +28,7 @@ UML是创建类图的标准语言，但开发中并不需要完全了解UML，�
 - `Teacher`类实现了`Person`协议，`Teacher`类有`educate()`方法
 - `Teacher`类拥有一个`House`，有一个或多个`Student`，`Student`类有`study()`方法
 - `Professor`类继承`Teacher`类，有`research()`方法
-- `Professor`类依赖`Assistant`类提代研究数据， `Assistant`类有`prepareData()`方法
+- `Professor`类依赖`Assistant`类提供研究数据， `Assistant`类有`prepareData()`方法
 
 ## Orz Swift 设计模式
 
