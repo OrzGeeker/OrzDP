@@ -20,7 +20,7 @@ UML是创建类图的标准语言，但开发中并不需要完全了解UML，�
 
 类图包括：类、协议、属性、方法和关系(继承、实现、拥有、依赖)
 
-![类图示意](./ClassDiagram.png.png)
+![类图示意](https://github.com/OrzGeeker/OrzSwiftDP/blob/main/ClassDiagram.png)
 
 ## Orz Swift 设计模式
 
