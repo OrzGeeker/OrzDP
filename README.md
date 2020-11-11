@@ -37,5 +37,9 @@ UML是创建类图的标准语言，但开发中并不需要完全了解UML，�
 2. [Delegate模式](resources/Delegate.png)
     - 代理的个数不应该太多，代理模式不应该滥用，如果发现代理个数太多，考虑拆分逻辑
     - 代理模式采用弱引用，如果需要创建强引用代理，可以考虑使用策略模式
+    
+3. [Strategy模式](resources/Strategy.png)
+    - 与Delegate模式类似，都使用协议来增加灵活性
+    - 策略模式可以在运行时动态替换，但代理模式的代理通常是固定的
 
 - 组播代理模式(MulticastDelegate)
