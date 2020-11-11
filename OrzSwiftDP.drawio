@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T23:46:42.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="FGVsdEpR6BcKQGuDiC6F" version="13.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-11T00:16:08.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="WdMqTPO5JgFdW-wJrl8R" version="13.9.3" type="github" pages="3">
   <diagram id="jDObRsGwntawownJrPFP" name="MVC">
     <mxGraphModel dx="1678" dy="1735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,14 @@
         <mxCell id="dvKTNCH3O4F9sTeGlxX9-9" value="&lt;font size=&quot;5&quot;&gt;&lt;b&gt;Delegte模式&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1UdEmpIFHIsiw1VHPK3h-1">
           <mxGeometry x="540" y="210" width="210" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="577jC9H3lSQwvHeObbug" name="strategy">
+    <mxGraphModel dx="1086" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="skcbko6ke_2NPL0xdrx8-0" />
+        <mxCell id="skcbko6ke_2NPL0xdrx8-1" parent="skcbko6ke_2NPL0xdrx8-0" />
       </root>
     </mxGraphModel>
   </diagram>
