@@ -32,21 +32,21 @@ UML是创建类图的标准语言，但开发中并不需要完全了解UML，�
 
 ## Orz Swift 设计模式
 
-1. ![MVC模式](resources/MVC.png)
+1. [MVC模式](resources/MVC.png)
 
-2. ![Delegate模式](resources/Delegate.png)
+2. [Delegate模式](resources/Delegate.png)
     - 代理的个数不应该太多，代理模式不应该滥用，如果发现代理个数太多，考虑拆分逻辑
     - 代理模式采用弱引用，如果需要创建强引用代理，可以考虑使用策略模式
     
-3. ![Strategy模式](resources/Strategy.png)
+3. [Strategy模式](resources/Strategy.png)
     - 与Delegate模式类似，都使用协议来增加灵活性
     - 策略模式可以在运行时动态替换，但代理模式的代理通常是固定的
     
-4. ![Singleton及SingletonPlus模式](resources/SingletonAndSingletonPlus.png)
+4. [Singleton及SingletonPlus模式](resources/SingletonAndSingletonPlus.png)
     - 限定一个类有且仅有一个实例对象，例如`UIApplication`
     - 单例扩展模式适用于通常情况下，只需要一个默认实例对象，在需要的时候还可以创建新的实例对象，例如`FileManager`
     
-5. ![Memento模式](resources/Memento.png)
+5. [Memento模式](resources/Memento.png)
     - 看管人负责把内存数据类型转换成磁盘数据类型并持久化起来，完成数据存储
     - 然后看管人负责把存储的数据取出来转换成磁盘数据类型，并最终转换恢复成为内存数据，完成数据的读取
 
